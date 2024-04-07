@@ -4,7 +4,7 @@ A basic version of the classic "Pong" game.
 
 ## Who is it for?
 
-This program was mostly written for my own enjoyment, as well as personal development as a programmer. 
+This program was mostly written for my own enjoyment, as well as for my own personal development as a programmer. 
 
 ## How to play?
 
